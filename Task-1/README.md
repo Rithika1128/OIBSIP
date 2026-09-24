@@ -6,7 +6,7 @@ This folder contains my work for Task 1 of the Oasis Infobyte Data Analytics Int
 
 This project analyzes retail sales data to understand sales performance, profit, customer demographics, product categories, geographic markets, and sales trends over time.
 
-The analysis was carried out using Python, Pandas, NumPy, and Matplotlib to clean the dataset, explore patterns, and identify useful business insights
+The analysis was carried out using Python, Pandas, NumPy, and Matplotlib to clean the dataset, explore patterns, and identify useful business insights.
 
 ## Tools & Technologies
 
@@ -25,7 +25,7 @@ The analysis was carried out using Python, Pandas, NumPy, and Matplotlib to clea
 
 The dataset contains retail sales information, including:
 
-- Date and time-related details
+- Date-related information
 - Customer age and gender
 - Country and state
 - Product category and sub-category
