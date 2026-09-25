@@ -68,3 +68,6 @@ The project includes:
 - Study customer preferences in the United States to understand the factors behind its strong sales.
 - Analyze the performance of California to identify strategies that may work in other regions.
 - Consider targeted marketing for the 35-64 age group based on its contribution to revenue.ail sales data can be cleaned, analyzed, and visualized using Python. The analysis provided useful insights into products, customers, regions, and sales trends, and showed how data can be used to understand business performance.
+
+## Conclusion
+This project helped me understand how retail sales data can be cleaned, analyzed, and visualized using Python. The analysis provided useful insights into products, customers, regions, and sales trends, and showed how data can be used to understand business performance.
