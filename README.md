@@ -11,11 +11,11 @@ This repository contains the projects and tasks completed as part of my **Data A
 
 ## 📂 Projects
 
-| Task   | Project                                | Status    | Tools                        |
-| ------ | -------------------------------------- | --------- | ---------------------------- |
-| Task 1 | Retail Sales Exploratory Data Analysis | Completed | Python, Pandas, Matplotlib   |
-| Task 2 | Wine Quality Prediction                | Planned   | Python, Pandas, Scikit-learn |
-| Task 3 | Data Cleaning                          | Planned   | Python, Pandas               |
+| Task   | Level |  Project                                | Status    | Tools                        |
+| ------ | ------|-----------------------------------------| --------- | ---------------------------- |
+| Task 1 |  1    | Retail Sales Exploratory Data Analysis  | Completed | Python, Pandas, Matplotlib   |
+| Task 2 |  2    |  Wine Quality Prediction                | Planned   | Python, Pandas, Scikit-learn |
+| Task 3 |  1    |  Data Cleaning                          | Planned   | Python, Pandas               |
 
 ### Task 1 — Retail Sales Exploratory Data Analysis
 
