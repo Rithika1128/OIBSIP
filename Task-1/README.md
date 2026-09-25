@@ -1,4 +1,4 @@
-#DataAnalytics-L1-EDARetailSales
+# DataAnalytics-L1-EDARetailSales
 
 This folder contains my work for Task 1 of the Oasis Infobyte Data Analytics Internship.
 
