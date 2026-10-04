@@ -109,14 +109,7 @@ The final dataset contains **48,884 rows with no duplicate records** and is read
 
 **Track:** Data Analytics  
 **Level:** Level 1  
-**Task:** Airbnb Data Cleaning## 📂 Dataset
-
-The dataset used in this project is the **New York City Airbnb Open Data (2019)** dataset.
-
-**Source:** Kaggle — New York City Airbnb Open Data  
-**Author:** Dgomonov  
-**License:** CC0: Public Domain
-
+**Task:** Airbnb Data Cleaning## 
 The dataset contains Airbnb listing information from New York City, including host details, neighbourhoods, room types, prices, reviews, and availability.
 
 [Dataset Source](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)
