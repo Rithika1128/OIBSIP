@@ -49,10 +49,9 @@ Built and compared classification models to predict wine quality categories usin
 * Exploratory Data Analysis
 * Data Visualization
 * Machine Learning
-
 ## 📊 Repository Structure
 
-'''text
+```text
 OIBSIP/
 ├── DataAnalytics-L1-EDARetailSales/
 │   ├── README.md
@@ -68,7 +67,8 @@ OIBSIP/
 │   ├── README.md
 │   └── OIBSIP_L2_Task2_Wine_Quality_Prediction.ipynb
 │
-└── README.md'''
+└── README.md
+```
 
 ## 👩‍💻 Author
 
