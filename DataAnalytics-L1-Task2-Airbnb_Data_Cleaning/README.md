@@ -109,7 +109,4 @@ The final dataset contains **48,884 rows with no duplicate records** and is read
 
 **Track:** Data Analytics  
 **Level:** Level 1  
-**Task:** Airbnb Data Cleaning## 
-The dataset contains Airbnb listing information from New York City, including host details, neighbourhoods, room types, prices, reviews, and availability.
-
-[Dataset Source](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)
+**Task:** Airbnb Data Cleaning
