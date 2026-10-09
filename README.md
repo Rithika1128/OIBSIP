@@ -15,7 +15,7 @@ This repository contains the projects and tasks completed as part of my **Data A
 |------|------|---------|--------|-------|
 | Task 1 | 1 | Retail Sales Exploratory Data Analysis | Completed | Python, Pandas, Matplotlib, Seaborn |
 | Task 2 | 1 | Airbnb Data Cleaning | Completed | Python, Pandas, NumPy, Matplotlib, Seaborn |
-| Task 3 | 2 | Wine Quality Prediction | Planned   | Python, Pandas, Scikit-learn |
+| Task 3 | 2 | Google  Playstore Analysis | Completed   | Python, Pandas, Scikit-learn |
 
 ### Task 1 — Retail Sales Exploratory Data Analysis
 
@@ -29,9 +29,9 @@ Cleaned and prepared an Airbnb dataset by handling missing values, duplicate rec
 
 **[View Task 2 Project](./DataAnalytics-L1-Task2-Airbnb_Data_Cleaning/)**
 
-### Task 3 — Wine Quality Prediction
+### Task 3 — Google  Playstore Analysis
 
-Planned 
+Completed 
 
 ## 🛠️ Skills & Tools
 
