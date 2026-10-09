@@ -72,14 +72,15 @@ This project demonstrates the use of data cleaning, exploratory data analysis, v
 
 ## Project Files
 
+```text
 DataAnalytics-L2-Google_Play_Store_Analysis/
-│
 ├── README.md
 ├── Google_Play_Store_Analysis.ipynb
 ├── googleplaystore_cleaned.csv
 ├── googleplaystore_reviews_cleaned.csv
-├── googleplaystore.csv                 ← Original apps dataset
-└── googleplaystore_user_reviews.csv    ← Original reviews dataset
+├── googleplaystore.csv
+└── googleplaystore_user_reviews.csv
+```
 
 ## Author
 
